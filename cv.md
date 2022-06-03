@@ -1,6 +1,7 @@
 ![photo](../photo_2022-06-03_21-36-43.jpg "My photo")
 1. *Alena Leshyk*
 2. **+48 573-210-747** 
+
 **diskord**: Alena#8577
 3. I always achieve my goals and learn quickly. After escaping from the Republic of Belarus and problems with employment in Poland, I decided to learn front-end in order to be independent of my place of residence.
 I just started learning layout in HTML with CSS.
