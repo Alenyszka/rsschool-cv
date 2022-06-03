@@ -1,6 +1,6 @@
 ![photo](../photo_2022-06-03_21-36-43.jpg "My photo")
 1. *Alena Leshyk*
-2. **+48 573-210-747**
+2. **+48 573-210-747** diskord - Alena#8577
 3. I always achieve my goals and learn quickly. After escaping from the Republic of Belarus and problems with employment in Poland, I decided to learn front-end in order to be independent of my place of residence.
 I just started learning layout in HTML with CSS.
 4. There are no skills yet.
@@ -20,6 +20,6 @@ I just started learning layout in HTML with CSS.
 </body>
 </html>
 ```
-6. No work experience yet.
+6. [My CV][https://github.com/Alenyszka/rsschool-cv/blob/gh-pages/cv.md]
 7. Higher education, marketer-economist.
 8. А1
