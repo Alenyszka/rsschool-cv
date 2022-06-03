@@ -20,6 +20,6 @@ I just started learning layout in HTML with CSS.
 </body>
 </html>
 ```
-6. [My CV][https://github.com/Alenyszka/rsschool-cv/blob/gh-pages/cv.md]
+6. [My CV](https://github.com/Alenyszka/rsschool-cv/blob/gh-pages/cv.md "My CV")
 7. Higher education, marketer-economist.
 8. А1
