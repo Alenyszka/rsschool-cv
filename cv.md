@@ -1,11 +1,11 @@
 ![photo](../photo_2022-06-03_21-36-43.jpg "My photo")
 ********
-*Alena Leshyk*
+# *Alena Leshyk*
 *******
 # Contacts 
 
-* +48 573-210-747
-* diskord: Alena#8577
+* **+48 573-210-747**
+* **diskord: Alena#8577**
 
 # About me
 
