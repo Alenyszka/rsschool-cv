@@ -1,8 +1,9 @@
 ![photo](../photo_2022-06-03_21-36-43.jpg "My photo")
 1. *Alena Leshyk*
 2. **+48 573-210-747**
-3. Всегда добиваюсь поставленных целей и быстро учусь. После побега из РБ и пррблемами с трудоустройством в Польше, приняла решение учить front-end, что бы быть независимой от места жительства.
-Только начала учить верстку в HTML с CSS.
+3. I always achieve my goals and learn quickly. After escaping from the Republic of Belarus and problems with employment in Poland, I decided to learn front-end in order to be independent of my place of residence.
+I just started learning layout in HTML with CSS.
+4. There are no skills yet.
 5. 
 ```
 <!DOCTYPE html>
@@ -19,6 +20,6 @@
 </body>
 </html>
 ```
-6. Опыта работы пока нет.
-7. Высшее, маркетолог-экономист.
+6. No work experience yet.
+7. Higher education, marketer-economist.
 8. А1
